@@ -5,7 +5,7 @@ The Kochava Android SDK is a lightweight plugin which can be easily integrated i
 [![All Modules](https://img.shields.io/maven-central/v/com.kochava.measurement/base)](https://central.sonatype.com/search?q=com.kochava.measurement&smo=true)
 
 ### Documentation
-[SDK Integration & Usage](https://support.kochava.com/articles/android-sdk/)
+[SDK Integration](https://support.kochava.com/articles/android-sdk/)
 
 ### Support
 support@kochava.com
